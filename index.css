@@ -522,7 +522,7 @@ body{
         position: absolute;
         top: 3%;
         left: 8%;
-        font-size: 150%;
+        font-size: 170%;
         color: #7719aa;
         font-weight: 500;
     }
@@ -531,7 +531,7 @@ body{
         position: absolute;
         top: 8%;
         left: 29%;
-        font-size:120%;
+        font-size:130%;
         font-weight: 600 ;
         
     }
@@ -541,7 +541,7 @@ body{
         top: 13%;
         left: 17%;
         font-size: 100%;
-        width: 550px;
+        width: 270px;
         text-align: center;
     }
     
@@ -549,8 +549,8 @@ body{
         position: absolute;
         top: 20%;
         left: 36%;
-        height: 50px;
-        width: 110;
+        height: 100%;
+        width: 200%;
         border: #7719aa solid 3px;
         color: #7719aa;
         font-weight: 600;
@@ -570,8 +570,8 @@ body{
         position: absolute;
         top: 20%;
         left: 54%;
-        height: 50px;
-        width: 118px;
+        height: 50%;
+        width: 100%;
         border: #7719aa solid 2px;
         color: #7719aa;
         font-weight: 600;
