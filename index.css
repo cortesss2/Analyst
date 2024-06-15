@@ -498,7 +498,7 @@ body{
     }   
     
     .area2{
-        background-color:#7719aa;
+        background-color:#f2f2f2;
         position: absolute;
         top: 65px;
         left: 0px;
@@ -519,7 +519,7 @@ body{
         position: absolute;
         top: 8%;
         left: 29%;
-        font-size:20%;
+        font-size:50%;
         font-weight: 600 ;
         
     }
@@ -528,7 +528,7 @@ body{
         position: absolute;
         top: 13%;
         left: 17%;
-        font-size: 120%;
+        font-size: 70%;
         width: 550px;
         text-align: center;
     }
