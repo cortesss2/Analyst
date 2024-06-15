@@ -522,7 +522,7 @@ body{
         position: absolute;
         top: 3%;
         left: 8%;
-        font-size: 170%;
+        font-size: 185%;
         color: #7719aa;
         font-weight: 500;
     }
@@ -549,8 +549,8 @@ body{
         position: absolute;
         top: 20%;
         left: 36%;
-        height: 10%;
-        width: 20%;
+        height: 4%;
+        width: 8%;
         border: #7719aa solid 3px;
         color: #7719aa;
         font-weight: 600;
@@ -570,8 +570,8 @@ body{
         position: absolute;
         top: 20%;
         left: 54%;
-        height: 5%;
-        width: 10%;
+        height: 2.5%;
+        width: 5%;
         border: #7719aa solid 2px;
         color: #7719aa;
         font-weight: 600;
