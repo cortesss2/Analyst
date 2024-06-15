@@ -544,7 +544,7 @@ body{
         left: 8%;
         font-size: 100%;
         width: 300px;
-        text-align: center;
+        text-align: left;
     }
     
     #area2button1{
@@ -590,10 +590,10 @@ body{
     
     #area2img1{
         position: absolute;
-        top: 38%;
+        top:30%;
         left: 8%;
         height: auto;
-        width: 92%;
+        width: 96%;
     }
     .area3{
         background-color: white;
