@@ -1,0 +1,869 @@
+body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    background-color: #fff;
+}
+
+
+
+.area1{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 65px;
+    width: 100%;
+}
+
+
+
+.area1ul1{
+    
+    list-style: none;
+    overflow: hidden;
+    position: absolute;
+    top: 8px;
+    left: 350px;
+    
+    
+}
+
+.area1ul1 li {
+    
+        display: inline;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+        list-style: none;
+        
+        
+        }
+.area1ul1 li a{
+    text-decoration: none;
+    font-size: 16px;
+}
+      
+
+
+#area1img1{
+    position: absolute;
+    top: 21px;
+    left: 88px;
+    height: 25px;
+    width: auto;
+
+}
+#area1p1{
+    position: absolute;
+    top: -2px;
+    left: 225px;
+    font-size: 20px;
+    font-weight:500;
+} 
+
+.area2{
+    background-color:#f2f2f2;
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    height: 555px;
+    width: 100%;
+}
+
+#area2h1{
+    position: absolute;
+    top: 130px;
+    left: 115px;
+    font-size: 52px;
+    color: #7719aa;
+    font-weight: 500;
+}
+
+#area2h2{
+    position: absolute;
+    top: 206px;
+    left: 115px;
+    font-size:30px;
+    font-weight: 600 ;
+    
+}
+
+#area2p1{
+    position: absolute;
+    top: 285px;
+    left: 115px;
+    font-size: 18px;
+    width: 550px;
+}
+
+#area2button1{
+    position: absolute;
+    top: 375px;
+    left: 115px;
+    height: 50px;
+    width: 110;
+    border: #7719aa solid 3px;
+    color: #7719aa;
+    font-weight: 600;
+    font-size: 15px;
+    background-color: #7719aa;
+    color: white;
+
+}
+
+#area2button1:hover{
+    background-color: #68019f;
+    cursor: pointer;
+    
+}
+#area2button2{
+
+    position: absolute;
+    top: 375px;
+    left: 260px;
+    height: 50px;
+    width: 118px;
+    border: #7719aa solid 2px;
+    color: #7719aa;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+
+#area2button2:hover{
+    background-color: #dbcce2;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+#area2img1{
+    position: absolute;
+    top: 65px;
+    left: 735px;
+    height: 490px;
+    width: auto;
+
+}
+.area3{
+    background-color: white;
+    position: absolute;
+    top: 620px;
+    left: 0px;
+    height: 705px;
+    width: 100%;
+}
+
+#area3img1{
+    position: absolute;
+    top: 127px;
+    left: 737px;
+    height: 453px;
+    width: auto;
+}
+
+#area3p1{
+    position: absolute;
+    top: 206px;
+    left: 115px;
+    font-size:38px;
+    font-weight: 500 ;
+}
+
+#area3p2{
+    position: absolute;
+    top: 295px;
+    left: 115px;
+    font-size: 17px;
+    width: 540px;
+}
+
+.area4{
+    background-color:#f2f2f2;
+    position: absolute;
+    top: 1325px;
+    left: 0px;
+    height: 445px;
+    width: 100%;
+}
+
+#area4p1{
+    position: absolute;
+    top: 80px;
+    right: 115px;
+    font-size:38px;
+    font-weight: 500 ;
+    width: 600px;
+}
+
+#area4p2{
+    position: absolute;
+    top: 232px;
+    right: 175px;
+    font-size: 17px;
+    width: 540px;
+}
+#area4img1{
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    height: 445px;
+    width: auto;
+}
+
+.area5{
+    background-color:white;
+    position: absolute;
+    top: 1770px;
+    left: 0px;
+    height: 705px;
+    width: 100%;
+}
+
+#area5img1{
+    position: absolute;
+    top: 140px;
+    right: 0px;
+    height: 440px;
+    width: auto;
+}
+
+#area5p1{
+    position: absolute;
+    top: 236px;
+    left: 115px;
+    font-size:38px;
+    font-weight: 500 ;
+}
+
+#area5p2{
+    position: absolute;
+    top: 325px;
+    left: 115px;
+    font-size: 17px;
+    width: 540px;
+}
+.area6{
+    background-color:#f2f2f2;
+    position: absolute;
+    top: 2475px;
+    left: 0px;
+    height: 445px;
+    width: 100%;
+}
+
+#area6p1{
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    font-size:38px;
+    font-weight: 500 ;
+    width: 600px;
+}
+
+#area6p2{
+    position: absolute;
+    top: 232px;
+    right: 140px;
+    font-size: 17px;
+    width: 540px;
+}
+
+#area6img1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 445px;
+    width: auto;
+}
+
+.area7{
+    background-color:white;
+    position: absolute;
+    top: 2920px;
+    left: 0px;
+    height: 670px;
+    width: 100%;
+}
+
+.area7section1{
+  display: grid;
+  grid-template-columns: auto auto auto ; 
+  grid-template-rows: auto auto;
+  position: absolute;
+  top: 200px;
+  left: 70px;  
+  justify-content: space-between;
+  
+  
+}
+
+.area7section1 article{
+    display: flex;
+    justify-items: center;
+    display: grid;
+    grid-template-rows: 70px auto auto;
+    margin-bottom: 45px ;
+}
+
+.area7section1 article strong{
+
+    font-size: 23px;
+}
+
+.area7section1 article p{
+    
+    text-align: center;
+    height: auto;
+    width: 460px;   
+}
+
+#area7p0{
+    position: absolute;
+    top: 50px;
+    left: 591px;
+    font-size:37px;
+    font-weight: 600 ;
+}
+
+.area8{
+    background-color:#091f2c;
+    position: absolute;
+    top: 3590px;
+    left: 0px;
+    height: 380px;
+    width: 100%;
+    justify-content: center;
+}
+
+#area8p1{
+    position: absolute;
+    top: 90px;
+    left: 600px;
+    font-size: 39px;
+    color: white;
+    font-weight: 500;
+    
+}
+
+#area8p2{
+    position: absolute;
+    top: 175px;
+    left: 500px;
+    font-size: 17px;
+    color: white;
+    
+}
+
+.area9{
+    background-color:white;
+    position: absolute;
+    top: 3970px;
+    left: 0px;
+    height: 150px;
+    width: 100%;
+    
+    
+}
+
+#area9p1{
+    position: absolute;
+    top: 50px;
+    left: 90px;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+}
+
+.area9section1{
+    position: absolute;
+    top: 62px;
+    left: 248px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+
+#area9section1img1{   
+    height: 31px;
+    width: auto;
+}
+#area9section1img2{  
+    height: 31px;
+    width: auto;
+}
+#area9section1img3{
+    height: 31px;
+    width: auto;
+}
+.area10{
+    background-color:#f2f2f2;
+    position: absolute;
+    top: 4120px;
+    left: 0px;
+    height: 55px;
+    width: 100%;
+}
+
+#area10p1{
+    position: absolute;
+    top: -3px;
+    left: 50px;
+    font-size: 16px;
+}
+
+.area10ul1{
+    
+    list-style: none;
+    overflow: hidden;
+    position: absolute;
+    top: -3px;
+    left: 650px;
+}
+      
+.area10ul1 li{
+    display: inline;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.area10ul1 li a{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 1200px){
+    
+    .area1{
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        height: 965px;
+        width: 100%;
+    }
+
+    .area1ul1{
+    
+        list-style: none;
+        overflow: hidden;
+        position: absolute;
+        top: .2%;
+        left: 41%;
+        
+        
+    }
+    
+    .area1ul1 li {
+        
+            display: inline;
+            text-align: center;
+            padding: 14px;
+            text-decoration: none;
+            list-style: none;
+            
+            
+            }
+
+    .area1ul1 li a{
+        text-decoration: none;
+        font-size: 16px;
+    }
+          
+    
+    
+    #area1img1{
+        position: absolute;
+        top: 2.2%;
+        left: 10%;
+        height: 20px;
+        width: auto;
+    
+    }
+    #area1p1{
+        position: absolute;
+        top: .2%;
+        left: 25%;
+        font-size: 17px;
+        font-weight:500;
+    }   
+    
+    .area2{
+        background-color:#f2f2f2;
+        position: absolute;
+        top: 65px;
+        left: 0px;
+        height: 1555px;
+        width: 100%;
+    }
+    
+    #area2h1{
+        position: absolute;
+        top: 3%;
+        left: 26%;
+        font-size: 52px;
+        color: #7719aa;
+        font-weight: 500;
+    }
+    
+    #area2h2{
+        position: absolute;
+        top: 8%;
+        left: 29%;
+        font-size:30px;
+        font-weight: 600 ;
+        
+    }
+    
+    #area2p1{
+        position: absolute;
+        top: 13%;
+        left: 17%;
+        font-size: 18px;
+        width: 550px;
+        text-align: center;
+    }
+    
+    #area2button1{
+        position: absolute;
+        top: 20%;
+        left: 36%;
+        height: 50px;
+        width: 110;
+        border: #7719aa solid 3px;
+        color: #7719aa;
+        font-weight: 600;
+        font-size: 15px;
+        background-color: #7719aa;
+        color: white;
+    
+    }
+    
+    #area2button1:hover{
+        background-color: #68019f;
+        cursor: pointer;
+        
+    }
+    #area2button2{
+    
+        position: absolute;
+        top: 20%;
+        left: 54%;
+        height: 50px;
+        width: 118px;
+        border: #7719aa solid 2px;
+        color: #7719aa;
+        font-weight: 600;
+        font-size: 15px;
+        
+    }
+    
+    #area2button2:hover{
+        background-color: #dbcce2;
+        font-weight: 600;
+        cursor: pointer;
+    }
+    
+    
+    #area2img1{
+        position: absolute;
+        top: 28%;
+        left: 8%;
+        height: auto;
+        width: 92%;
+    }
+    .area3{
+        background-color: white;
+        position: absolute;
+        top: 920px;
+        left: 0px;
+        height: 705px;
+        width: 100%;
+    }
+    
+    #area3img1{
+        position: absolute;
+        top: 46%;
+        left: 13%;
+        height: 350px;
+        width: auto;
+    }
+    
+    #area3p1{
+        position: absolute;
+        top: 11%;
+        left: 14%;
+        font-size:38px;
+        font-weight: 500 ;
+    }
+    
+    #area3p2{
+        position: absolute;
+        top: 26%;
+        left: 14%;
+        font-size: 17px;
+        width: 540px;
+    }
+    
+    .area4{
+        background-color:#f2f2f2;
+        position: absolute;
+        top: 1625px;
+        left: 0px;
+        height: 445px;
+        width: 100%;
+    }
+    
+    #area4p1{
+        position: absolute;
+        top: 16%;
+        left: 10%; 
+        font-size:38px;
+        font-weight: 500 ;
+        width: 600px;
+        text-align: center;
+    }
+    
+    #area4p2{
+        position: absolute;
+        top: 51%;
+        left: 13%;
+        font-size: 17px;
+        width: 540px;
+        text-align: center;
+    }
+    #area4img1{
+        display: none;
+    }
+    
+    .area5{
+        background-color:white;
+        position: absolute;
+        top: 2070px;
+        left: 0px;
+        height: 705px;
+        width: 100%;
+    }
+    
+    #area5img1{
+        position: absolute;
+        top: 51%;
+        right: 0%;
+        height: 350px;
+        width: auto;
+    }
+    
+    #area5p1{
+        position: absolute;
+        top: 8%;
+        left: 11%;
+        font-size:38px;
+        font-weight: 500 ;
+    }
+    
+    #area5p2{
+        position: absolute;
+        top: 21%;
+        left: 11%;
+        font-size: 17px;
+        width: 540px;
+    }
+    .area6{
+        background-color:#f2f2f2;
+        position: absolute;
+        top: 2775px;
+        left: 0px;
+        height: 445px;
+        width: 100%;
+    }
+    
+    #area6p1{
+        position: absolute;
+        top: 16%;
+        left: 10%;
+        font-size:38px;
+        font-weight: 500 ;
+        width: 600px;
+        text-align: center;
+    }
+    
+    #area6p2{
+        position: absolute;
+        top: 51%;
+        left: 13%;
+        font-size: 17px;
+        width: 540px;
+        text-align: center;
+    }
+    
+    #area6img1{
+        display: none;
+    }
+    
+    .area7{
+        background-color:white;
+        position: absolute;
+        top: 3220px;
+        left: 0px;
+        height: 1910px;
+        width: 100%;
+    }
+    
+    .area7section1{
+      display: grid;
+      grid-template-columns: auto; 
+      grid-template-rows: auto auto auto auto auto auto;
+      position: absolute;
+      top: 13%;
+      left: 18%;  
+      justify-content: space-between;
+      
+      
+    }
+    
+    .area7section1 article{
+        display: flex;
+        justify-items: center;
+        display: grid;
+        grid-template-rows: 70px auto auto;
+        margin-bottom: 95px ;
+    }
+    
+    .area7section1 article strong{
+    
+        font-size: 23px;
+    }
+    
+    .area7section1 article p{
+        
+        text-align: center;
+        height: auto;
+        width: 460px;   
+    }
+    
+    #area7p0{
+        position: absolute;
+        top: 3%;
+        left: 26%;
+        font-size:37px;
+        font-weight: 600 ;
+    }
+    
+    .area8{
+        background-color:#091f2c;
+        position: absolute;
+        top: 5130px;
+        left: 0px;
+        height: 380px;
+        width: 100%;
+        justify-content: center;
+    }
+    
+    #area8p1{
+        position: absolute;
+        top: 24%;
+        left: 29%;
+        font-size: 39px;
+        color: white;
+        font-weight: 500;
+        
+    }
+    
+    #area8p2{
+        position: absolute;
+        top: 45%;
+        left: 16%;
+        font-size: 17px;
+        color: white;
+        
+    }
+    
+    .area9{
+        background-color:white;
+        position: absolute;
+        top: 5510px;
+        left: 0px;
+        height: 150px;
+        width: 100%;
+        
+        
+    }
+    
+    #area9p1{
+        position: absolute;
+        top: 31%;
+        left: 12%;
+        font-size: 17px;
+        color: rgb(0, 0, 0);
+    }
+    
+    .area9section1{
+        position: absolute;
+        top: 41%;
+        left: 33%;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        
+    }
+    
+    #area9section1img1{   
+        height: 31px;
+        width: auto;
+    }
+    #area9section1img2{  
+        height: 31px;
+        width: auto;
+    }
+    #area9section1img3{
+        height: 31px;
+        width: auto;
+    }
+    .area10{
+        background-color:#f2f2f2;
+        position: absolute;
+        top: 5660px;
+        left: 0px;
+        height: 55px;
+        width: 100%;
+    }
+    
+    #area10p1{
+        position: absolute;
+        top: 0%;
+        left: 21%;
+        font-size: 16px;
+    }
+    
+    .area10ul1{
+        
+        list-style: none;
+        overflow: hidden;
+        position: absolute;
+        top: -3px;
+        left: 650px;
+        display: none;
+    }
+          
+    .area10ul1 li{
+        display: inline;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+        list-style: none;
+    }
+    
+    .area10ul1 li a{
+        font-size: 16px;
+        text-decoration: none;
+    }
+    
+    
+}
+

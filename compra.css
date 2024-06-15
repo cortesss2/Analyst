@@ -1,0 +1,460 @@
+body{
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    background-color: #fff;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+
+}
+
+.area1{
+    position: absolute;
+    top: 0px;
+    left: 280px;
+    height: 450px;
+    width: 475px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+#area1img1{
+    position: absolute;
+    top: 43px;
+    left: 30px;
+    height: 20px;
+    width: auto;
+}
+
+#area1p1{
+    position: absolute;
+    top: 100px;
+    left: 21px;
+    font-size: 18px;
+    color: black;
+}
+
+span{
+    font-weight: 500;
+    font-size: 20px;
+}
+#area1p2{
+    position: absolute;
+    top: 159px;
+    left: 18px;
+    font-size: 35px;
+    font-weight: 600;
+    color: black;
+}
+
+.area1section1{
+    position: absolute;
+    top: 252px;
+    left: 20px;
+    font-size: 19px;
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-rows: 3;
+}
+
+.area1section1 article {
+    border-bottom: lightgray solid 1px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+ 
+.area2{
+    position: absolute;
+    top: 0px;
+    left: 755px;
+    height: 550px;
+    width: 475px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+input::placeholder {
+    
+    font-size: 15px;
+  }
+
+  input:focus {
+    border-color: 2px solid rgb(48, 255, 248);
+    outline: 1px solid rgb(51, 245, 241);
+
+  }
+
+  input{
+    padding-left: 10px;
+    font-size: 15px;
+  }
+
+#area2label1{
+    position: absolute;
+    top: 44px;
+    left: 85px;
+    font-size: 18px;
+    color: rgb(95, 95, 95);
+    font-weight: 600;
+
+}
+
+#area2input1{
+    position: absolute;
+    top: 80px;
+    left: 85px;
+    height: 40px;
+    width: 370px;
+    border: rgb(193, 183, 183) ridge 1px;
+    border-radius: 10px;
+}
+
+#area2p1{
+    position: absolute;
+    top: 151px;
+    left: 85px;
+    font-size: 18px;
+    color: rgb(95, 95, 95);
+    font-weight: 600;
+
+}
+
+#area2label2{
+    position: absolute;
+    top: 187px;
+    left: 85px;
+    font-size: 15px;
+    color: rgb(131, 131, 131);
+    font-weight: 600;
+
+}
+
+#area2input2{
+    position: absolute;
+    top: 212px;
+    left: 85px;
+    height: 38px;
+    width: 370px;
+    border: rgb(193, 183, 183) ridge 1px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+
+#area2input3{
+    position: absolute;
+    top: 253px;
+    left: 85px;
+    height: 40px;
+    width: 179px;
+    border: rgb(193, 183, 183) ridge 1px;
+    border-bottom-left-radius: 10px;
+   
+}
+
+#area2input4{
+    position: absolute;
+    top: 253px;
+    left: 275px;
+    height: 40px;
+    width: 180px;
+    border: rgb(193, 183, 183) ridge 1px;
+    border-bottom-right-radius: 10px;
+    
+    
+}
+
+#area2label3{
+    position: absolute;
+    top: 312px;
+    left: 85px;
+    font-size: 15px;
+    color: rgb(131, 131, 131);
+    font-weight: 600;
+}
+
+#area2input5{
+    position: absolute;
+    top: 338px;
+    left: 85px;
+    height: 40px;
+    width: 370px;
+    border: rgb(193, 183, 183) ridge 1px;
+    border-radius: 10px;
+}
+
+#area2label4{
+    position: absolute;
+    top: 395px;
+    left: 85px;
+    font-size: 15px;
+    color: rgb(131, 131, 131);
+    font-weight: 600;
+}
+#area2input6{
+    position: absolute;
+    top: 422px;
+    left: 85px;
+    height: 40px;
+    width: 370px;
+    border: rgb(193, 183, 183) ridge 1px;
+    border-radius: 10px;
+}
+
+
+#area2button1{
+    position: absolute;
+    top: 510px;
+    left: 85px;
+    height: 43px;
+    width: 370px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    background-color: #3998ff;
+    font-size: 18px;
+
+}
+
+#area2button1:hover{
+    cursor: pointer;
+    background-color: #3998ff;
+
+}
+
+@media only screen and (max-width: 1200px){
+    
+    .area1{
+        position: absolute;
+        top: 0%;
+        left: 19%;
+        height: 450px;
+        width: 475px;
+        background-color: rgb(255, 255, 255);
+    
+    }
+    
+    #area1img1{
+        position: absolute;
+        top: 43px;
+        left: 30px;
+        height: 20px;
+        width: auto;
+    }
+    
+    #area1p1{
+        position: absolute;
+        top: 100px;
+        left: 21px;
+        font-size: 18px;
+        color: black;
+    }
+    
+    span{
+        font-weight: 500;
+        font-size: 20px;
+    }
+    #area1p2{
+        position: absolute;
+        top: 159px;
+        left: 18px;
+        font-size: 35px;
+        font-weight: 600;
+        color: black;
+    }
+    
+    .area1section1{
+        position: absolute;
+        top: 230px;
+        left: 20px;
+        font-size: 19px;
+        display: grid;
+        grid-template-columns: 1;
+        grid-template-rows: 3;
+    }
+    
+    .area1section1 article {
+        border-bottom: lightgray solid 1px;
+        padding-bottom: 5px;
+        margin-bottom: 15px;
+    }
+     
+    .area2{
+        position: absolute;
+        top: 51%;
+        left: 10%;
+        height: 550px;
+        width: 475px;
+        background-color: rgb(255, 255, 255);
+    
+    }
+    
+    input::placeholder {
+        
+        font-size: 15px;
+      }
+    
+      input:focus {
+        border-color: 2px solid rgb(48, 255, 248);
+        outline: 1px solid rgb(51, 245, 241);
+    
+      }
+    
+      input{
+        padding-left: 10px;
+        font-size: 15px;
+      }
+    
+    #area2label1{
+        position: absolute;
+        top: 44px;
+        left: 85px;
+        font-size: 18px;
+        color: rgb(95, 95, 95);
+        font-weight: 600;
+    
+    }
+    
+    #area2input1{
+        position: absolute;
+        top: 80px;
+        left: 85px;
+        height: 40px;
+        width: 370px;
+        border: rgb(193, 183, 183) ridge 1px;
+        border-radius: 10px;
+    }
+    
+    #area2p1{
+        position: absolute;
+        top: 151px;
+        left: 85px;
+        font-size: 18px;
+        color: rgb(95, 95, 95);
+        font-weight: 600;
+    
+    }
+    
+    #area2label2{
+        position: absolute;
+        top: 187px;
+        left: 85px;
+        font-size: 15px;
+        color: rgb(131, 131, 131);
+        font-weight: 600;
+    
+    }
+    
+    #area2input2{
+        position: absolute;
+        top: 212px;
+        left: 85px;
+        height: 38px;
+        width: 370px;
+        border: rgb(193, 183, 183) ridge 1px;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+        
+    }
+    
+    #area2input3{
+        position: absolute;
+        top: 253px;
+        left: 85px;
+        height: 40px;
+        width: 179px;
+        border: rgb(193, 183, 183) ridge 1px;
+        border-bottom-left-radius: 10px;
+       
+    }
+    
+    #area2input4{
+        position: absolute;
+        top: 253px;
+        left: 275px;
+        height: 40px;
+        width: 180px;
+        border: rgb(193, 183, 183) ridge 1px;
+        border-bottom-right-radius: 10px;
+        
+        
+    }
+    
+    #area2label3{
+        position: absolute;
+        top: 312px;
+        left: 85px;
+        font-size: 15px;
+        color: rgb(131, 131, 131);
+        font-weight: 600;
+    }
+    
+    #area2input5{
+        position: absolute;
+        top: 338px;
+        left: 85px;
+        height: 40px;
+        width: 370px;
+        border: rgb(193, 183, 183) ridge 1px;
+        border-radius: 10px;
+    }
+    
+    #area2label4{
+        position: absolute;
+        top: 395px;
+        left: 85px;
+        font-size: 15px;
+        color: rgb(131, 131, 131);
+        font-weight: 600;
+    }
+    #area2input6{
+        position: absolute;
+        top: 422px;
+        left: 85px;
+        height: 40px;
+        width: 370px;
+        border: rgb(193, 183, 183) ridge 1px;
+        border-radius: 10px;
+    }
+    
+    
+    #area2button1{
+        position: absolute;
+        top: 510px;
+        left: 85px;
+        height: 43px;
+        width: 370px;
+        border-radius: 10px;
+        border: none;
+        color: #fff;
+        background-color: #3998ff;
+        font-size: 18px;
+    
+    }
+    
+    #area2button1:hover{
+        cursor: pointer;
+        background-color: #3998ff;
+    
+    }
+
+    .area3{
+        position: absolute;
+        top: 131%;
+        left: 0%;
+        background-color: #ffffff;
+        height: 65px;
+        width: 100%;
+
+    }
+}
