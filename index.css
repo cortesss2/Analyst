@@ -523,7 +523,7 @@ body{
     #area2h1{
         position: absolute;
         top: 3%;
-        #left: 8%;
+        /*left: 8%;*/
         font-size: 185%;
         color: #7719aa;
         font-weight: 500;
@@ -532,7 +532,7 @@ body{
     #area2h2{
         position: absolute;
         top: 8%;
-        #left: 29%;
+        /*left: 29%;*/
         font-size:130%;
         font-weight: 600 ;
         
@@ -541,7 +541,7 @@ body{
     #area2p1{
         position: absolute;
         top: 13%;
-        #left: 17%;
+        /*left: 17%;*/
         font-size: 100%;
         width: 300px;
         text-align: center;
@@ -550,7 +550,7 @@ body{
     #area2button1{
         position: absolute;
         top: 20%;
-        #left: 30%;
+        /*left: 30%;*/
         height: 3.2%;
         width: 30%;
         border: #7719aa solid 3px;
@@ -571,7 +571,7 @@ body{
     
         position: absolute;
         top: 20%;
-        #left: 59%;
+        /*left: 59%;*/
         height: 3.2%;
         width: 30%;
         border: #7719aa solid 2px;
