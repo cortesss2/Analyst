@@ -516,6 +516,8 @@ body{
         left: 0px;
         height: 1555px;
         width: 100%;
+        display: flex;
+        justify-items: center;
     }
     
     #area2h1{
@@ -548,7 +550,7 @@ body{
     #area2button1{
         position: absolute;
         top: 20%;
-        left: 36%;
+        left: 30%;
         height: 3.2%;
         width: 30%;
         border: #7719aa solid 3px;
@@ -569,7 +571,7 @@ body{
     
         position: absolute;
         top: 20%;
-        left: 54%;
+        left: 59%;
         height: 3.2%;
         width: 30%;
         border: #7719aa solid 2px;
