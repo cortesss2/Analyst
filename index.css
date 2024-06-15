@@ -570,8 +570,8 @@ body{
         position: absolute;
         top: 20%;
         left: 54%;
-        height: 2.5%;
-        width: 5%;
+        height: 3.2%;
+        width: 30%;
         border: #7719aa solid 2px;
         color: #7719aa;
         font-weight: 600;
@@ -588,7 +588,7 @@ body{
     
     #area2img1{
         position: absolute;
-        top: 68%;
+        top: 48%;
         left: 8%;
         height: auto;
         width: 92%;
