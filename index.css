@@ -593,7 +593,7 @@ body{
         top:30%;
         left: 8%;
         height: auto;
-        width: 99%;
+        width: 120%;
     }
     .area3{
         background-color: white;
@@ -608,7 +608,7 @@ body{
         position: absolute;
         top: 46%;
         left: 13%;
-        height: 350px;
+        height: 275px;
         width: auto;
     }
     
@@ -616,7 +616,7 @@ body{
         position: absolute;
         top: 11%;
         left: 14%;
-        font-size:38px;
+        font-size:120%;
         font-weight: 500 ;
     }
     
@@ -624,7 +624,7 @@ body{
         position: absolute;
         top: 26%;
         left: 14%;
-        font-size: 17px;
+        font-size: 100%;
         width: 540px;
     }
     
@@ -641,7 +641,7 @@ body{
         position: absolute;
         top: 16%;
         left: 10%; 
-        font-size:38px;
+        font-size:120%;
         font-weight: 500 ;
         width: 600px;
         text-align: center;
@@ -651,7 +651,7 @@ body{
         position: absolute;
         top: 51%;
         left: 13%;
-        font-size: 17px;
+        font-size: 100%;
         width: 540px;
         text-align: center;
     }
@@ -672,7 +672,7 @@ body{
         position: absolute;
         top: 51%;
         right: 0%;
-        height: 350px;
+        height: 275px;
         width: auto;
     }
     
@@ -680,7 +680,7 @@ body{
         position: absolute;
         top: 8%;
         left: 11%;
-        font-size:38px;
+        font-size:120%;
         font-weight: 500 ;
     }
     
@@ -688,7 +688,7 @@ body{
         position: absolute;
         top: 21%;
         left: 11%;
-        font-size: 17px;
+        font-size: 100%;
         width: 540px;
     }
     .area6{
@@ -704,7 +704,7 @@ body{
         position: absolute;
         top: 16%;
         left: 10%;
-        font-size:38px;
+        font-size:120%;
         font-weight: 500 ;
         width: 600px;
         text-align: center;
@@ -714,7 +714,7 @@ body{
         position: absolute;
         top: 51%;
         left: 13%;
-        font-size: 17px;
+        font-size: 100%;
         width: 540px;
         text-align: center;
     }
@@ -768,7 +768,7 @@ body{
         position: absolute;
         top: 3%;
         left: 26%;
-        font-size:37px;
+        font-size:120%;
         font-weight: 600 ;
     }
     
@@ -777,7 +777,7 @@ body{
         position: absolute;
         top: 5130px;
         left: 0px;
-        height: 380px;
+        height: 175%;
         width: 100%;
         justify-content: center;
     }
@@ -786,7 +786,7 @@ body{
         position: absolute;
         top: 24%;
         left: 29%;
-        font-size: 39px;
+        font-size: 100%;
         color: white;
         font-weight: 500;
         
@@ -796,7 +796,7 @@ body{
         position: absolute;
         top: 45%;
         left: 16%;
-        font-size: 17px;
+        font-size: 100%;
         color: white;
         
     }
@@ -816,7 +816,7 @@ body{
         position: absolute;
         top: 31%;
         left: 12%;
-        font-size: 17px;
+        font-size: 100%;
         color: rgb(0, 0, 0);
     }
     
@@ -846,7 +846,7 @@ body{
         position: absolute;
         top: 5660px;
         left: 0px;
-        height: 55px;
+        height: 100%;
         width: 100%;
     }
     
