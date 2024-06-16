@@ -522,8 +522,8 @@ body{
     
     #area2h1{
         position: absolute;
-        top: 6%;
-        left: 14%;
+        top: 7%;
+        left: 11%;
         font-size: 182%;
         color: #7719aa;
         font-weight: 500;
@@ -531,8 +531,8 @@ body{
     
     #area2h2{
         position: absolute;
-        top: 10%;
-        left: 12%;
+        top: 9%;
+        left: 10%;
         font-size:130%;
         font-weight: 600 ;
         
@@ -550,7 +550,7 @@ body{
     #area2button1{
         position: absolute;
         top: 20%;
-        left: 15%;
+        left: 10%;
         height: 3.2%;
         width: 30%;
         border: #7719aa solid 3px;
@@ -571,7 +571,7 @@ body{
     
         position: absolute;
         top: 20%;
-        left: 44%;
+        left: 41%;
         height: 3.2%;
         width: 30%;
         border: #7719aa solid 2px;
