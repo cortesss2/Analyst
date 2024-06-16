@@ -523,7 +523,7 @@ body{
     #area2h1{
         position: absolute;
         top: 6%;
-        left: 18%;
+        left: 14%;
         font-size: 182%;
         color: #7719aa;
         font-weight: 500;
@@ -531,8 +531,8 @@ body{
     
     #area2h2{
         position: absolute;
-        top: 8%;
-        left: 15%;
+        top: 10%;
+        left: 12%;
         font-size:130%;
         font-weight: 600 ;
         
