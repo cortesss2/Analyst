@@ -682,7 +682,7 @@ body{
         height: 445px;
         width: 100%;
         display: flex;
-        justify-items: center;
+        align-items: center;
         
         
     }
