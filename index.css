@@ -686,33 +686,24 @@ body{
         
     }
     
-    .area4section1{
-        position: absolute;
-        top: 200px;
-        left: 500px;
-        display: grid;
-        grid-template-comumns: auto;
-        grid-template-arrows: auto auto;
-    }
-        
 
      #area4p1{
-        /*position: absolute;
+        position: absolute;
         top: 15%;
-        left: 0%;*/
+        left: 13%;
         font-size:165%;
         font-weight: 500 ;
         width: 300px;
-        text-align: center;
+        text-align: right;
     }
     
     #area4p2{
-       /*position: absolute;
+        position: absolute;
         top: 50%;
-        left: 0%;*/
+        left: 15%;
         font-size: 110%;
         width: 275px;
-        text-align: center;
+        text-align: right;
     }
     #area4img1{
         display: none;
@@ -767,7 +758,7 @@ body{
         font-size:165%;
         font-weight: 500 ;
         width: 300px;
-        text-align: center;
+        text-align: right;
     }
     
     #area6p2{
@@ -776,7 +767,7 @@ body{
         left: 16%;
         font-size: 110%;
         width: 275px;
-        text-align: center;
+        text-align: right;
     }
     
     #area6img1{
