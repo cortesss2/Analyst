@@ -32,10 +32,18 @@ body{
 #area1img1{
     position: absolute;
     top: 43px;
-    left: 30px;
+    left: 70px;
     height: 20px;
     width: auto;
 }
+
+#area1a1 #area1img2{
+        position: absolute;
+        top: 43px;
+        left: 30px;
+        height: 20px;
+        width: auto;
+    }
 
 #area1p1{
     position: absolute;
@@ -48,6 +56,17 @@ body{
 .area1p1span1{
     font-weight: 500;
     font-size: 20px;
+}
+
+    .area1section1 .span2{
+        margin-left: 46px;
+}
+
+    .area1section1 .span3{
+        margin-left: 158px;
+}
+    .area1section1 .span4{
+        margin-left: 191px;
 }
 #area1p2{
     position: absolute;
