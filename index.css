@@ -690,7 +690,7 @@ body{
     .area4section1{
         position: absolute;
         top: 20%;
-        left: 50%;
+        left: 250px;
         display: grid;
         grid-template-comumns: auto;
         grid-template-arrows: auto auto;
