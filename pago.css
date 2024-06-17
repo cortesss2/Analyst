@@ -253,7 +253,7 @@ body{
     .area1{
         position: absolute;
         top: 0%;
-        left: -1%;
+        left: 2%;
         height: 450px;
         width: 475px;
         background-color: rgb(255, 255, 255);
@@ -332,7 +332,7 @@ body{
     .area2{
         position: absolute;
         top: 51%;
-        left: -20%;
+        left: -17%;
         height: 550px;
         width: 475px;
         background-color: rgb(255, 255, 255);
@@ -423,7 +423,7 @@ body{
         top: 253px;
         left: 255px;
         height: 40px;
-        width: 31.5%;
+        width: 31%;
         border: rgb(193, 183, 183) ridge 1px;
         border-bottom-right-radius: 10px;
         
