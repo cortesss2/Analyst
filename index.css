@@ -738,7 +738,7 @@ body{
     #area5p2{
         position: absolute;
         top: 21%;
-        left: 16%;
+        left: 11%;
         font-size: 110%;
         width: 300px;
     }
@@ -754,7 +754,7 @@ body{
     #area6p1{
         position: absolute;
         top: 16%;
-        left: 13%;
+        left: 9%;
         font-size:165%;
         font-weight: 500 ;
         width: 320px;
@@ -764,7 +764,7 @@ body{
     #area6p2{
         position: absolute;
         top: 51%;
-        left: 16%;
+        left: 11%;
         font-size: 110%;
         width: 300px;
         text-align: right;
