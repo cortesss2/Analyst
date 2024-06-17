@@ -246,9 +246,7 @@ body{
     line-height: 1.5;
     color: #000;
     background-color: #fff;
-    position: absolute;
-    top: 50px;
-    left: -30px;
+   
     
 }
     
@@ -414,7 +412,7 @@ body{
         top: 253px;
         left: 85px;
         height: 40px;
-        width: 179px;
+        width: 33.5%;
         border: rgb(193, 183, 183) ridge 1px;
         border-bottom-left-radius: 10px;
        
@@ -423,9 +421,9 @@ body{
     #area2input4{
         position: absolute;
         top: 253px;
-        left: 275px;
+        left: 315px;
         height: 40px;
-        width: 180px;
+        width: 33.5%;
         border: rgb(193, 183, 183) ridge 1px;
         border-bottom-right-radius: 10px;
         
