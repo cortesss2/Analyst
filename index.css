@@ -529,7 +529,7 @@ body{
         position: absolute;
         top: 0%;
         left: 0px;
-        height: 120px;
+        height: 125px;
         width: 100%;
         z-index: 10;
         display: block;
@@ -538,9 +538,9 @@ body{
 }
     #area2section1p1{
         position: absolute;
-        top: 13%;
+        top: 7%;
         left: 15%;
-        font-size: 100%;
+        font-size: 97%;
         width: 180px;
         text-align: center;
         color: white;
