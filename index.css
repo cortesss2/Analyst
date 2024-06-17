@@ -694,9 +694,9 @@ body{
         
 
      #area4p1{
-        /*position: absolute;
+        position: absolute;
         top: 15%;
-        left: 0%*/
+        left: 0%*l
         font-size:165%;
         font-weight: 500 ;
         width: 300px;
@@ -704,9 +704,9 @@ body{
     }
     
     #area4p2{
-        /*position: absolute;
+        position: absolute;
         top: 50%;
-        left: 0%;*/
+        left: 0%;
         font-size: 110%;
         width: 275px;
         text-align: center;
