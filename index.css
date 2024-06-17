@@ -690,7 +690,7 @@ body{
      #area4p1{
         position: absolute;
         top: 15%;
-        left: 11%;
+        left: 8%;
         font-size:165%;
         font-weight: 500 ;
         width: 325px;
@@ -757,7 +757,7 @@ body{
         left: 13%;
         font-size:165%;
         font-weight: 500 ;
-        width: 300px;
+        width: 320px;
         text-align: right;
     }
     
@@ -766,7 +766,7 @@ body{
         top: 51%;
         left: 16%;
         font-size: 110%;
-        width: 275px;
+        width: 300px;
         text-align: right;
     }
     
