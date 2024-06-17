@@ -681,7 +681,7 @@ body{
         left: 0px;
         height: 445px;
         width: 100%;
-        display: flex;
+        /*display: flex;
         justify-items: center;
         
         
@@ -691,7 +691,7 @@ body{
         display: grid;
         grid-template-comumns: auto;
         grid-template-arrows: auto auto;
-        
+        */
 
      #area4p1{
         position: absolute;
