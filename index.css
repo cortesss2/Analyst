@@ -538,7 +538,7 @@ body{
 }
     #area2section1p1{
         position: absolute;
-        top: 3%;
+        top: 1%;
         left: 12%;
         font-size: 97%;
         width: 180px;
@@ -548,8 +548,8 @@ body{
 
     #area2section1p2{
         position: absolute;
-        top: 13%;
-        left: 70%;
+        top: 18%;
+        left: 75%;
         font-size:95%;
         width: 50px;
         text-align: left;
