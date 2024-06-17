@@ -824,7 +824,7 @@ body{
     .area9section1{
         position: absolute;
         top: 41%;
-        left: 43%;
+        left: 60%;
         display: grid;
         grid-template-columns: auto auto auto;
         
@@ -847,7 +847,7 @@ body{
         position: absolute;
         top: 5660px;
         left: 0px;
-        height: 100%;
+        height: 70px;
         width: 100%;
     }
     
