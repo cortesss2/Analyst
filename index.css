@@ -540,6 +540,7 @@ body{
         font-size: 90%;
         width: 30px;
         text-align: center;
+        color: white;
 }
 
     #area2section1p2{
@@ -549,6 +550,7 @@ body{
         font-size: 80%;
         width: 15px;
         text-align: left;
+        color: white;
 }
     #area2h1{
         position: absolute;
