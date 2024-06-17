@@ -251,6 +251,14 @@ input::placeholder {
         height: 20px;
         width: auto;
     }
+
+    #area1img2{
+        position: absolute;
+        top: 43px;
+        left: 30px;
+        height: 20px;
+        width: auto;
+    }
     
     #area1p1{
         position: absolute;
@@ -295,7 +303,7 @@ input::placeholder {
         display: none;
 }
     .area1section1 .span2{
-        pading-left: 10px;
+        pading-left: 100px;
 }
 
     .area1section1 .span3{
