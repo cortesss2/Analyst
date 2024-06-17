@@ -681,12 +681,14 @@ body{
         left: 0px;
         height: 445px;
         width: 100%;
+        display: flex;
+        justify-items: center;
     }
     
     #area4p1{
         position: absolute;
         top: 15%;
-        left: 13%; 
+        left: 0% 
         font-size:165%;
         font-weight: 500 ;
         width: 300px;
@@ -696,7 +698,7 @@ body{
     #area4p2{
         position: absolute;
         top: 50%;
-        left: 15%;
+        left: 0%;
         font-size: 110%;
         width: 275px;
         text-align: center;
