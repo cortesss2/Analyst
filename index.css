@@ -778,28 +778,30 @@ body{
         position: absolute;
         top: 5130px;
         left: 0px;
-        height: 175%;
+        height: 80%;
         width: 100%;
         justify-content: center;
     }
     
     #area8p1{
         position: absolute;
-        top: 2%;
-        left: 29%;
+        top: 0%;
+        left: 9%;
         font-size: 250%;
         color: white;
         font-weight: 500;
-        align-text: center;
+        text-align center;
+        width
         
     }
     
     #area8p2{
         position: absolute;
-        top: 8%;
+        top: 12%;
         left: 16%;
         font-size: 150%;
         color: white;
+        text-align: Center;
         
     }
     
@@ -825,7 +827,7 @@ body{
     .area9section1{
         position: absolute;
         top: 41%;
-        left: 60%;
+        left: 55%;
         display: grid;
         grid-template-columns: auto auto auto;
         
@@ -854,7 +856,7 @@ body{
     
     #area10p1{
         position: absolute;
-        top: 0%;
+        top: -3%;
         left: 5%;
         font-size: 100%;
     }
