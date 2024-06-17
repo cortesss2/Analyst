@@ -514,7 +514,7 @@ body{
     }   
     
     .area2{
-        background-color:black;
+        background-color: #f2f2f2;
         position: absolute;
         top: 65px;
         left: 0px;
@@ -527,11 +527,11 @@ body{
     .area2section1{
         background-color:#7719aa;
         position: absolute;
-        top: 0%;
+        top: 40%;
         left: 0px;
-        height: 50px;
+        height: 500px;
         width: 100%;
-        z-index: 2;
+        z-index: 10;
      
         
 }
