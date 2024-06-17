@@ -307,10 +307,10 @@ input::placeholder {
 }
 
     .area1section1 .span3{
-        margin-left: 80px;
+        margin-left: 110px;
 }
     .area1section1 .span4{
-        margin-left: 130px;
+        margin-left: 150px;
 }
      
     .area2{
@@ -354,7 +354,7 @@ input::placeholder {
         top: 80px;
         left: 85px;
         height: 40px;
-        width: 60%;
+        width: 70%;
         border: rgb(193, 183, 183) ridge 1px;
         border-radius: 10px;
     }
@@ -384,7 +384,7 @@ input::placeholder {
         top: 212px;
         left: 85px;
         height: 38px;
-        width: 50%;
+        width: 75%;
         border: rgb(193, 183, 183) ridge 1px;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
