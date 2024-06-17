@@ -688,7 +688,7 @@ body{
     }
     
     .area4section1{
-        posición: absolute;
+        position: absolute;
         top: 20%;
         left: 50%;
         display: grid;
