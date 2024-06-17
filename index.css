@@ -739,7 +739,7 @@ body{
       grid-template-rows: auto auto auto auto auto auto;
       position: absolute;
       top: 10%;
-      left: 11%;  
+      left: 11.7%;  
       justify-content: space-between;
       
       
@@ -767,8 +767,8 @@ body{
     
     #area7p0{
         position: absolute;
-        top: 7%;
-        left: 12%;
+        top: 4%;
+        left: 14%;
         font-size:165%;
         font-weight: 600 ;
     }
@@ -785,8 +785,8 @@ body{
     
     #area8p1{
         position: absolute;
-        top: 2%;
-        left: 9%;
+        top: 8%;
+        left: 9.7%;
         font-size: 250%;
         color: white;
         font-weight: 500;
@@ -797,8 +797,8 @@ body{
     
     #area8p2{
         position: absolute;
-        top: 16%;
-        left: 10%;
+        top: 20%;
+        left: 1%;
         font-size: 150%;
         color: white;
         text-align: Center;
@@ -856,7 +856,7 @@ body{
     
     #area10p1{
         position: absolute;
-        top: -3%;
+        top: -6%;
         left: 5%;
         font-size: 100%;
     }
