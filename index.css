@@ -556,6 +556,10 @@ body{
         color: white;
         text-decoration: underline dotted;
 }
+    
+    .area2section1 a:visited {
+        color: white;
+}
     #area2h1{
         position: absolute;
         top: 13%;
