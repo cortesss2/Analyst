@@ -303,16 +303,14 @@ input::placeholder {
         display: none;
 }
     .area1section1 .span2{
-        margin-left: 50px;
+        margin-left: 40px;
 }
 
     .area1section1 .span3{
-        margin-left: 50px;
+        margin-left: 80px;
 }
     .area1section1 .span4{
-        margin-left: 3
-
-0px;
+        margin-left: 130px;
 }
      
     .area2{
@@ -356,7 +354,7 @@ input::placeholder {
         top: 80px;
         left: 85px;
         height: 40px;
-        width: 80%;
+        width: 60%;
         border: rgb(193, 183, 183) ridge 1px;
         border-radius: 10px;
     }
@@ -386,7 +384,7 @@ input::placeholder {
         top: 212px;
         left: 85px;
         height: 38px;
-        width: 370px;
+        width: 50%;
         border: rgb(193, 183, 183) ridge 1px;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
