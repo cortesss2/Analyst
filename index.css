@@ -591,9 +591,9 @@ body{
     #area2img1{
         position: absolute;
         top:30%;
-        left: 8%;
+        left: 7%;
         height: auto;
-        width: 94%;
+        width: 92%;
     }
     .area3{
         background-color: white;
@@ -641,7 +641,7 @@ body{
         position: absolute;
         top: 16%;
         left: 10%; 
-        font-size:120%;
+        font-size:170%;
         font-weight: 500 ;
         width: 600px;
         text-align: center;
@@ -651,8 +651,8 @@ body{
         position: absolute;
         top: 51%;
         left: 13%;
-        font-size: 100%;
-        width: 540px;
+        font-size: 110%;
+        width: 275px;
         text-align: center;
     }
     #area4img1{
@@ -680,7 +680,7 @@ body{
         position: absolute;
         top: 8%;
         left: 11%;
-        font-size:120%;
+        font-size:170%;
         font-weight: 500 ;
     }
     
@@ -688,8 +688,8 @@ body{
         position: absolute;
         top: 21%;
         left: 11%;
-        font-size: 100%;
-        width: 540px;
+        font-size: 110%;
+        width: 275px;
     }
     .area6{
         background-color:#f2f2f2;
@@ -704,7 +704,7 @@ body{
         position: absolute;
         top: 16%;
         left: 10%;
-        font-size:120%;
+        font-size:170%;
         font-weight: 500 ;
         width: 600px;
         text-align: center;
@@ -714,8 +714,8 @@ body{
         position: absolute;
         top: 51%;
         left: 13%;
-        font-size: 100%;
-        width: 540px;
+        font-size: 110%;
+        width: 275px;
         text-align: center;
     }
     
@@ -761,7 +761,7 @@ body{
         
         text-align: center;
         height: auto;
-        width: 460px;   
+        width: 275px;   
     }
     
     #area7p0{
@@ -786,7 +786,7 @@ body{
         position: absolute;
         top: 24%;
         left: 29%;
-        font-size: 100%;
+        font-size: 300%;
         color: white;
         font-weight: 500;
         
@@ -796,7 +796,7 @@ body{
         position: absolute;
         top: 45%;
         left: 16%;
-        font-size: 100%;
+        font-size: 200%;
         color: white;
         
     }
@@ -854,7 +854,7 @@ body{
         position: absolute;
         top: 0%;
         left: 21%;
-        font-size: 16px;
+        font-size: 100%;
     }
     
     .area10ul1{
