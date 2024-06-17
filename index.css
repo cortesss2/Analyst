@@ -524,10 +524,10 @@ body{
         justify-items: center;
     }
     
-    .area2section1{
+    .area2 section{
         background-color:#7719aa;
         position: absolute;
-        top: 40%;
+        top: 0%;
         left: 0px;
         height: 500px;
         width: 100%;
