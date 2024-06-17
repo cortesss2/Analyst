@@ -529,7 +529,7 @@ body{
         position: absolute;
         top: 0%;
         left: 0px;
-        height: 140px;
+        height: 120px;
         width: 100%;
         z-index: 10;
         display: block;
@@ -541,7 +541,7 @@ body{
         top: 13%;
         left: 15%;
         font-size: 90%;
-        width: 130px;
+        width: 150px;
         text-align: center;
         color: white;
 }
@@ -554,6 +554,7 @@ body{
         width: 50px;
         text-align: left;
         color: white;
+        text-decoration: underline dotted;
 }
     #area2h1{
         position: absolute;
