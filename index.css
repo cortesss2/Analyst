@@ -561,6 +561,11 @@ body{
         color: white;
         text-decoration: underline dotted;
 }
+
+    .area2section1 a:link {
+        color: white;
+        text-decoration: underline dotted;
+}
     #area2h1{
         position: absolute;
         top: 12%;
@@ -681,7 +686,7 @@ body{
     #area4p1{
         position: absolute;
         top: 15%;
-        left: 9%; 
+        left: 13%; 
         font-size:165%;
         font-weight: 500 ;
         width: 300px;
@@ -691,7 +696,7 @@ body{
     #area4p2{
         position: absolute;
         top: 50%;
-        left: 12%;
+        left: 15%;
         font-size: 110%;
         width: 275px;
         text-align: center;
@@ -745,7 +750,7 @@ body{
     #area6p1{
         position: absolute;
         top: 16%;
-        left: 9%;
+        left: 13%;
         font-size:165%;
         font-weight: 500 ;
         width: 300px;
@@ -755,7 +760,7 @@ body{
     #area6p2{
         position: absolute;
         top: 51%;
-        left: 12%;
+        left: 16%;
         font-size: 110%;
         width: 275px;
         text-align: center;
@@ -780,7 +785,7 @@ body{
       grid-template-rows: auto auto auto auto auto auto;
       position: absolute;
       top: 10%;
-      left: 11.7%;  
+      left: 14%;  
       justify-content: space-between;
       
       
@@ -809,7 +814,7 @@ body{
     #area7p0{
         position: absolute;
         top: 2%;
-        left: 14%;
+        left: 18%;
         font-size:165%;
         font-weight: 600 ;
     }
@@ -827,7 +832,7 @@ body{
     #area8p1{
         position: absolute;
         top: 13%;
-        left: 18.2%;
+        left: 21%;
         font-size: 200%;
         color: white;
         font-weight: 500;
@@ -839,7 +844,7 @@ body{
     #area8p2{
         position: absolute;
         top: 30%;
-        left: 1%;
+        left: 4%;
         font-size: 110%;
         color: white;
         text-align: Center;
