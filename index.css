@@ -688,8 +688,8 @@ body{
     
     .area4section1{
         position: absolute;
-        top: 2000%;
-        left: 250px;
+        top: 200px;
+        left: 500px;
         display: grid;
         grid-template-comumns: auto;
         grid-template-arrows: auto auto;
