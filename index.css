@@ -641,9 +641,9 @@ body{
         position: absolute;
         top: 16%;
         left: 10%; 
-        font-size:170%;
+        font-size:165%;
         font-weight: 500 ;
-        width: 600px;
+        width: 300px;
         text-align: center;
     }
     
@@ -680,8 +680,9 @@ body{
         position: absolute;
         top: 8%;
         left: 11%;
-        font-size:170%;
+        font-size:165%;
         font-weight: 500 ;
+        width: 300px;
     }
     
     #area5p2{
@@ -704,9 +705,9 @@ body{
         position: absolute;
         top: 16%;
         left: 10%;
-        font-size:170%;
+        font-size:165%;
         font-weight: 500 ;
-        width: 600px;
+        width: 300px;
         text-align: center;
     }
     
@@ -738,7 +739,7 @@ body{
       grid-template-rows: auto auto auto auto auto auto;
       position: absolute;
       top: 13%;
-      left: 18%;  
+      left: 14%;  
       justify-content: space-between;
       
       
@@ -768,7 +769,7 @@ body{
         position: absolute;
         top: 3%;
         left: 26%;
-        font-size:120%;
+        font-size:165%;
         font-weight: 600 ;
     }
     
@@ -784,7 +785,7 @@ body{
     
     #area8p1{
         position: absolute;
-        top: 24%;
+        top: 4%;
         left: 29%;
         font-size: 300%;
         color: white;
@@ -794,7 +795,7 @@ body{
     
     #area8p2{
         position: absolute;
-        top: 45%;
+        top: 15%;
         left: 16%;
         font-size: 200%;
         color: white;
@@ -823,7 +824,7 @@ body{
     .area9section1{
         position: absolute;
         top: 41%;
-        left: 33%;
+        left: 43%;
         display: grid;
         grid-template-columns: auto auto auto;
         
@@ -853,7 +854,7 @@ body{
     #area10p1{
         position: absolute;
         top: 0%;
-        left: 21%;
+        left: 5%;
         font-size: 100%;
     }
     
