@@ -615,7 +615,7 @@ body{
     #area3p1{
         position: absolute;
         top: 7%;
-        left: 8%;
+        left: 6%;
         font-size:170%;
         font-weight: 500 ;
     }
@@ -623,7 +623,7 @@ body{
     #area3p2{
         position: absolute;
         top: 13%;
-        left: 8%;
+        left: 6%;
         font-size: 110%;
         width: 275px;
     }
@@ -786,7 +786,7 @@ body{
     #area8p1{
         position: absolute;
         top: 13%;
-        left: 12%;
+        left: 16%;
         font-size: 200%;
         color: white;
         font-weight: 500;
