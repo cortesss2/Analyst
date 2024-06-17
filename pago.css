@@ -44,7 +44,7 @@ body{
     color: black;
 }
 
-span{
+.area1p1span1{
     font-weight: 500;
     font-size: 20px;
 }
@@ -237,7 +237,7 @@ input::placeholder {
     .area1{
         position: absolute;
         top: 0%;
-        left: -5%;
+        left: -1%;
         height: 450px;
         width: 475px;
         background-color: rgb(255, 255, 255);
