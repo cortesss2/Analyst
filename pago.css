@@ -303,11 +303,11 @@ input::placeholder {
         display: none;
 }
     .area1section1 .span2{
-        margin-left: 10px;
+        margin-left: 50px;
 }
 
     .area1section1 .span3{
-        margin-left: 20px;
+        margin-left: 50px;
 }
     .area1section1 .span4{
         margin-left: 3
@@ -356,7 +356,7 @@ input::placeholder {
         top: 80px;
         left: 85px;
         height: 40px;
-        width: 130%;
+        width: 80%;
         border: rgb(193, 183, 183) ridge 1px;
         border-radius: 10px;
     }
