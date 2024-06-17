@@ -593,7 +593,7 @@ body{
         top:30%;
         left: 8%;
         height: auto;
-        width: 90%;
+        width: 94%;
     }
     .area3{
         background-color: white;
@@ -608,15 +608,15 @@ body{
         position: absolute;
         top: 46%;
         left: 13%;
-        height: 275px;
-        width: auto;
+        height: auto;
+        width: 90%;
     }
     
     #area3p1{
         position: absolute;
         top: 11%;
         left: 14%;
-        font-size:150%;
+        font-size:170%;
         font-weight: 500 ;
     }
     
