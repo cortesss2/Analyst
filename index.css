@@ -522,7 +522,7 @@ body{
     
     #area2h1{
         position: absolute;
-        top: 5%;
+        top: 6%;
         left: 8%;
         font-size: 182%;
         color: #7719aa;
@@ -593,14 +593,14 @@ body{
         top:30%;
         left: 8%;
         height: auto;
-        width: 120%;
+        width: 100%;
     }
     .area3{
         background-color: white;
         position: absolute;
         top: 920px;
         left: 0px;
-        height: 705px;
+        height: 170%;
         width: 100%;
     }
     
@@ -625,7 +625,7 @@ body{
         top: 26%;
         left: 14%;
         font-size: 100%;
-        width: 540px;
+        width: 300px;
     }
     
     .area4{
