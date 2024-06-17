@@ -524,7 +524,7 @@ body{
         justify-items: center;
     }
     
-    .area2 section{
+    .area2section1{
         background-color:#7719aa;
         position: absolute;
         top: 0%;
@@ -532,6 +532,7 @@ body{
         height: 500px;
         width: 100%;
         z-index: 10;
+        display: block;
      
         
 }
