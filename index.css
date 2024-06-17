@@ -606,7 +606,7 @@ body{
     
     #area3img1{
         position: absolute;
-        top: 46%;
+        top: 30%;
         left: 4%;
         height: auto;
         width: 92%;
@@ -614,16 +614,16 @@ body{
     
     #area3p1{
         position: absolute;
-        top: 11%;
-        left: 14%;
+        top: 7%;
+        left: 12%;
         font-size:170%;
         font-weight: 500 ;
     }
     
     #area3p2{
         position: absolute;
-        top: 26%;
-        left: 14%;
+        top: 17%;
+        left: 12%;
         font-size: 110%;
         width: 275px;
     }
@@ -639,7 +639,7 @@ body{
     
     #area4p1{
         position: absolute;
-        top: 16%;
+        top: 15%;
         left: 10%; 
         font-size:165%;
         font-weight: 500 ;
@@ -650,7 +650,7 @@ body{
     #area4p2{
         position: absolute;
         top: 51%;
-        left: 13%;
+        left: 12%;
         font-size: 110%;
         width: 275px;
         text-align: center;
@@ -678,7 +678,7 @@ body{
     
     #area5p1{
         position: absolute;
-        top: 8%;
+        top: 6%;
         left: 11%;
         font-size:165%;
         font-weight: 500 ;
@@ -704,7 +704,7 @@ body{
     #area6p1{
         position: absolute;
         top: 16%;
-        left: 10%;
+        left: 9%;
         font-size:165%;
         font-weight: 500 ;
         width: 300px;
@@ -714,7 +714,7 @@ body{
     #area6p2{
         position: absolute;
         top: 51%;
-        left: 13%;
+        left: 12%;
         font-size: 110%;
         width: 275px;
         text-align: center;
