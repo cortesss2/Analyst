@@ -688,6 +688,9 @@ body{
     }
     
     .area4section1{
+        posición: absolute;
+        top: 20%;
+        left: 50%;
         display: grid;
         grid-template-comumns: auto;
         grid-template-arrows: auto auto;
