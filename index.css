@@ -542,7 +542,7 @@ body{
         position: absolute;
         top: 13%;
         left: 8%;
-        font-size: 100%;
+        font-size: 110%;
         width: 300px;
         text-align: left;
     }
@@ -593,7 +593,7 @@ body{
         top:30%;
         left: 8%;
         height: auto;
-        width: 100%;
+        width: 90%;
     }
     .area3{
         background-color: white;
@@ -616,7 +616,7 @@ body{
         position: absolute;
         top: 11%;
         left: 14%;
-        font-size:120%;
+        font-size:150%;
         font-weight: 500 ;
     }
     
@@ -624,8 +624,8 @@ body{
         position: absolute;
         top: 26%;
         left: 14%;
-        font-size: 100%;
-        width: 300px;
+        font-size: 110%;
+        width: 275px;
     }
     
     .area4{
