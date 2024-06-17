@@ -681,15 +681,14 @@ body{
         left: 0px;
         height: 445px;
         width: 100%;
-        display: flex;
-        align-items: center;
+        
         
         
     }
     
     .area4section1{
         position: absolute;
-        top: 20%;
+        top: 2000%;
         left: 250px;
         display: grid;
         grid-template-comumns: auto;
