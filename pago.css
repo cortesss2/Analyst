@@ -237,7 +237,7 @@ input::placeholder {
     .area1{
         position: absolute;
         top: 0%;
-        left: 2%;
+        left: 1%;
         height: 450px;
         width: 475px;
         background-color: rgb(255, 255, 255);
@@ -292,7 +292,7 @@ input::placeholder {
     .area2{
         position: absolute;
         top: 51%;
-        left: 2%;
+        left: -8%;
         height: 550px;
         width: 475px;
         background-color: rgb(255, 255, 255);
