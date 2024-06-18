@@ -289,18 +289,11 @@ body{
     #area1img1{
         position: absolute;
         top: 43px;
-        left: 70px;
+        left: 30px;
         height: 20px;
         width: auto;
     }
 
-    #area1img2{
-        position: absolute;
-        top: 43px;
-        left: 30px;
-        height: 2px;
-        width: auto;
-    }
     
     #area1p1{
         position: absolute;
