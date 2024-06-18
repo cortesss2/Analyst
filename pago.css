@@ -281,7 +281,7 @@ body{
         top: 0%;
         left: -.5%;
         height: 450px;
-        width: 360px;
+        width: 100%;
         background-color: white;
     
     }
@@ -353,7 +353,7 @@ body{
         top: 51%;
         left: -20%;
         height: 550px;
-        width: 430px;
+        width: 100%;
         background-color: white;
     
     }
@@ -419,7 +419,7 @@ body{
         top: 212px;
         left: 85px;
         height: 38px;
-        width: 72%;
+        width: 89%;
         border: rgb(193, 183, 183) ridge 1px;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
