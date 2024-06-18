@@ -282,7 +282,7 @@ body{
         left: -.5%;
         height: 450px;
         width: 360px;
-        background-color: black;
+        background-color: white;
     
     }
     
@@ -354,7 +354,7 @@ body{
         left: -20%;
         height: 550px;
         width: 430px;
-        background-color: black;
+        background-color: white;
     
     }
     
@@ -513,7 +513,7 @@ body{
         left: 0%;
         background-color: black;
         height: 65px;
-        width: 100%;
+        width: 200px;
 
     }
     
