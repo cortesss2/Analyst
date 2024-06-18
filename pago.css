@@ -281,7 +281,7 @@ body{
         top: 0%;
         left: -.5%;
         height: 450px;
-        width: 430px;
+        width: 370px;
         background-color: black;
     
     }
@@ -511,7 +511,7 @@ body{
         position: absolute;
         top: 131%;
         left: 0%;
-        background-color: #ffffff;
+        background-color: black;
         height: 65px;
         width: 100%;
 
