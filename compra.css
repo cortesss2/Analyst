@@ -281,7 +281,7 @@ body{
         top: 0%;
         left: -.5%;
         height: 450px;
-        width: 360px;
+        width: 100%;
         background-color: white;
     
     }
@@ -353,7 +353,7 @@ body{
         top: 51%;
         left: -20%;
         height: 550px;
-        width: 430px;
+        width: 100%;
         background-color: white;
     
     }
