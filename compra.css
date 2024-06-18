@@ -9,6 +9,7 @@ body{
     line-height: 1.5;
     color: #000;
     background-color: #fff;
+    
 }
 
 *{
@@ -36,6 +37,21 @@ body{
     width: auto;
 }
 
+/*#area1a1{
+        position: absolute;
+        top: 43px;
+        left: 40px;
+        height: 30px;
+        width: auto;
+    }
+#area1img2{
+        position: absolute;
+        top: 43px;
+        left: 40px;
+        height: 30px;
+        width: auto;
+    }*/
+
 #area1p1{
     position: absolute;
     top: 100px;
@@ -44,9 +60,20 @@ body{
     color: black;
 }
 
-span{
+.area1p1span1{
     font-weight: 500;
     font-size: 20px;
+}
+
+    .area1section1 .span2{
+        margin-left: 46px;
+}
+
+    .area1section1 .span3{
+        margin-left: 238px;
+}
+    .area1section1 .span4{
+        margin-left: 275px;
 }
 #area1p2{
     position: absolute;
@@ -233,11 +260,26 @@ input::placeholder {
 }
 
 @media only screen and (max-width: 1200px){
+
+body{
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    background-color: #fff;
+   
+    
+}
     
     .area1{
         position: absolute;
         top: 0%;
-        left: 19%;
+        left: -.5%;
         height: 450px;
         width: 475px;
         background-color: rgb(255, 255, 255);
@@ -251,6 +293,7 @@ input::placeholder {
         height: 20px;
         width: auto;
     }
+
     
     #area1p1{
         position: absolute;
@@ -258,9 +301,11 @@ input::placeholder {
         left: 21px;
         font-size: 18px;
         color: black;
+        text-align: left;
+        width: 330px;
     }
     
-    span{
+    #area1p1 span{
         font-weight: 500;
         font-size: 20px;
     }
@@ -268,7 +313,7 @@ input::placeholder {
         position: absolute;
         top: 159px;
         left: 18px;
-        font-size: 35px;
+        font-size: 30px;
         font-weight: 600;
         color: black;
     }
@@ -288,11 +333,25 @@ input::placeholder {
         padding-bottom: 5px;
         margin-bottom: 15px;
     }
+
+    .area1section1 .span1{
+        display: none;
+}
+    .area1section1 .span2{
+        margin-left: 46px;
+}
+
+    .area1section1 .span3{
+        margin-left: 158px;
+}
+    .area1section1 .span4{
+        margin-left: 191px;
+}
      
     .area2{
         position: absolute;
         top: 51%;
-        left: 10%;
+        left: -20%;
         height: 550px;
         width: 475px;
         background-color: rgb(255, 255, 255);
@@ -330,7 +389,7 @@ input::placeholder {
         top: 80px;
         left: 85px;
         height: 40px;
-        width: 370px;
+        width: 67%;
         border: rgb(193, 183, 183) ridge 1px;
         border-radius: 10px;
     }
@@ -360,7 +419,7 @@ input::placeholder {
         top: 212px;
         left: 85px;
         height: 38px;
-        width: 370px;
+        width: 67%;
         border: rgb(193, 183, 183) ridge 1px;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
@@ -372,7 +431,7 @@ input::placeholder {
         top: 253px;
         left: 85px;
         height: 40px;
-        width: 179px;
+        width: 33.5%;
         border: rgb(193, 183, 183) ridge 1px;
         border-bottom-left-radius: 10px;
        
@@ -381,9 +440,9 @@ input::placeholder {
     #area2input4{
         position: absolute;
         top: 253px;
-        left: 275px;
+        left: 255px;
         height: 40px;
-        width: 180px;
+        width: 31.15%;
         border: rgb(193, 183, 183) ridge 1px;
         border-bottom-right-radius: 10px;
         
@@ -404,7 +463,7 @@ input::placeholder {
         top: 338px;
         left: 85px;
         height: 40px;
-        width: 370px;
+        width: 67%;
         border: rgb(193, 183, 183) ridge 1px;
         border-radius: 10px;
     }
@@ -422,7 +481,7 @@ input::placeholder {
         top: 422px;
         left: 85px;
         height: 40px;
-        width: 370px;
+        width: 67%;
         border: rgb(193, 183, 183) ridge 1px;
         border-radius: 10px;
     }
@@ -433,7 +492,7 @@ input::placeholder {
         top: 510px;
         left: 85px;
         height: 43px;
-        width: 370px;
+        width: 67%;
         border-radius: 10px;
         border: none;
         color: #fff;
@@ -457,4 +516,5 @@ input::placeholder {
         width: 100%;
 
     }
+    
 }
